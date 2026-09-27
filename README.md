@@ -4,14 +4,14 @@ A photo-led, responsive dark and lime portfolio, redesigned with scroll-linked p
 
 ## Open locally
 
-Open `dist/index.html`, or run `python3 -m http.server 4173` inside the `dist` folder and visit http://localhost:4173.
+Open `index.html`, or run `python3 -m http.server 4173` and visit http://localhost:4173.
 
 ## Edit
 
-- `dist/index.html`: personal details, education, skills, project case study, photographs, and LinkedIn links.
-- `dist/style.css`: visual design, responsive layouts, and animation.
-- `dist/main.js`: technology content, 3D animation, scroll effects, photo switching, gallery controls, and accessibility.
-- `dist/images/`: locally prepared versions of the supplied photos.
+- `index.html`: personal details, education, skills, project case study, photographs, and LinkedIn links.
+- `style.css`: visual design, responsive layouts, and animation.
+- `main.js`: technology content, 3D animation, scroll effects, photo switching, gallery controls, and accessibility.
+- `images/`: locally prepared versions of the supplied photos.
 
 All four newly supplied photos are used: IMG_1015 in the opening, IMG_1014 in the introduction and photo switcher, IMG_1005 in the opening switcher and gallery, and IMG_0995 in the motorcycle section. The motorcycle image is oriented in CSS. Originals are unchanged.
 
